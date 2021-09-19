@@ -39,7 +39,7 @@ Some features may not be implemented in version 1
 - `ETH` `0x23dac0a93bcd71fec7a95833ad030338f167f185`
 
 ## Sponsor
-<a href="https://www.jetbrains.com/?from=Netch"><img src="jetbrains.svg" alt="JetBrains" width="200"/></a>
+<a href="https://www.jetbrains.com/?from=Netch"><img src="https://raw.githubusercontent.com/netchx/netch/main/jetbrains.svg" alt="JetBrains" width="200"/></a>
 
 - [NeroCloud](https://nerocloud.io)
 
